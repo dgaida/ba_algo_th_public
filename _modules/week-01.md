@@ -1,23 +1,11 @@
 ---
-title: Introduction to Java
+title: Woche 1 - Organisation, erste ADTs: Liste, Stapel, Warteschlange, Tabelle
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+28.09.
+: **Vorlesung**{: .label .label-purple } Organisation, erste ADTs: Liste, Stapel, Warteschlange, Tabelle
+  : Raum 0.503, 9:30-12:00
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
-
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+28.09.
+: **Übung**{: .label .label-blue } erste ADTs: Liste, Stapel, Warteschlange, Tabelle
+  : Raum 0.503, 13:00-14:00

@@ -1,23 +1,11 @@
 ---
-title: Basic Data Structures
+title: Woche 2 - Asymptotische Analyse
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+01.10.
+: **Vorlesung**{: .label .label-purple } Asymptotische Analyse
+  : Raum 0.503, 9:30-12:00
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
-
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
-
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
-
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+01.10.
+: **Übung**{: .label .label-blue } Asymptotische Analyse
+  : Raum 0.503, 13:00-14:00
