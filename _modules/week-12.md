@@ -1,5 +1,5 @@
 ---
-title: Woche 12 - Sortieralgorithmen
+title: "Woche 12 - Sortieralgorithmen"
 ---
 
 05.11.

@@ -1,5 +1,5 @@
 ---
-title: Woche 6 - Balancierte Binäre Suchbäume
+title: "Woche 6 - Balancierte Binäre Suchbäume"
 ---
 
 15.10.

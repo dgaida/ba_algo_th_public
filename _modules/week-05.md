@@ -1,5 +1,5 @@
 ---
-title: Woche 5 - Binäre Suchbäume
+title: "Woche 5 - Binäre Suchbäume"
 ---
 
 12.10.

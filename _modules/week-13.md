@@ -1,5 +1,5 @@
 ---
-title: Woche 13 - Dynamische Programmierung I
+title: "Woche 13 - Dynamische Programmierung I"
 ---
 
 09.11.

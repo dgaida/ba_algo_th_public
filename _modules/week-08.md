@@ -1,5 +1,5 @@
 ---
-title: Woche 8 - Graphen I
+title: "Woche 8 - Graphen I"
 ---
 
 22.10.

@@ -1,5 +1,5 @@
 ---
-title: Woche 10 - Graphen III: Minimale Spannbäume
+title: "Woche 10 - Graphen III: Minimale Spannbäume"
 ---
 
 29.10.

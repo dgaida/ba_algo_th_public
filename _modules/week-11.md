@@ -1,5 +1,5 @@
 ---
-title: Woche 11 - Graphen IV: Minimale Spannbäume
+title: "Woche 11 - Graphen IV: Minimale Spannbäume"
 ---
 
 02.11.

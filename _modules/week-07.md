@@ -1,5 +1,5 @@
 ---
-title: Woche 7 - Prioritätswarteschlange, Heap
+title: "Woche 7 - Prioritätswarteschlange, Heap"
 ---
 
 19.10.

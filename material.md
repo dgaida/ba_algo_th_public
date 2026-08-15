@@ -21,13 +21,13 @@ Sammlung weiterer Materialien zu den Themen des Moduls.
 
 Massive Open Online Courses.
 
-- [Python-Klasse von Google](https://developers.google.com/edu/python?hl=de)   — Eine hilfreiche Ressource zum Thema Algorithmen und Datenstrukturen.  
-- [The Python Tutorial](https://docs.python.org/3.16/tutorial/)   — Eine hilfreiche Ressource zum Thema Algorithmen und Datenstrukturen.  
-- [DataCamp](https://www.datacamp.com/)   — Eine hilfreiche Ressource zum Thema Algorithmen und Datenstrukturen.  
-- [Spanning Tree: How Dijkstra's Algorithm Works](https://www.youtube.com/watch?v=EFg3u_E6eHU)   — Eine hilfreiche Ressource zum Thema Algorithmen und Datenstrukturen.  
-- [Spanning Tree: How Do You Calculate a Minimum Spanning Tree?](https://www.youtube.com/watch?v=Yldkh0aOEcg)   — Eine hilfreiche Ressource zum Thema Algorithmen und Datenstrukturen.  
-- [Spanning Tree: How to Count Dice Rolls - An Introduction to Dynamic Programming](https://www.youtube.com/watch?v=oifN-YVlrq8)   — Eine hilfreiche Ressource zum Thema Algorithmen und Datenstrukturen.  
-- [Spanning Tree: Understanding B-Trees: The Data Structure Behind Modern Databases](https://www.youtube.com/watch?v=K1a2Bk8NrYQ)   — Eine hilfreiche Ressource zum Thema Algorithmen und Datenstrukturen.  
+- [Python-Klasse von Google](https://developers.google.com/edu/python?hl=de)   — Eine hilfreiche Ressource zum Thema Algorithmen und Datenstrukturen.
+- [The Python Tutorial](https://docs.python.org/3.16/tutorial/)   — Eine hilfreiche Ressource zum Thema Algorithmen und Datenstrukturen.
+- [DataCamp](https://www.datacamp.com/)   — Eine hilfreiche Ressource zum Thema Algorithmen und Datenstrukturen.
+- [Spanning Tree: How Dijkstra's Algorithm Works](https://www.youtube.com/watch?v=EFg3u_E6eHU)   — Eine hilfreiche Ressource zum Thema Algorithmen und Datenstrukturen.
+- [Spanning Tree: How Do You Calculate a Minimum Spanning Tree?](https://www.youtube.com/watch?v=Yldkh0aOEcg)   — Eine hilfreiche Ressource zum Thema Algorithmen und Datenstrukturen.
+- [Spanning Tree: How to Count Dice Rolls - An Introduction to Dynamic Programming](https://www.youtube.com/watch?v=oifN-YVlrq8)   — Eine hilfreiche Ressource zum Thema Algorithmen und Datenstrukturen.
+- [Spanning Tree: Understanding B-Trees: The Data Structure Behind Modern Databases](https://www.youtube.com/watch?v=K1a2Bk8NrYQ)   — Eine hilfreiche Ressource zum Thema Algorithmen und Datenstrukturen.
 
 ## Webseiten
 
@@ -35,5 +35,5 @@ Massive Open Online Courses.
 
 ## Tools
 
-- [Jupyter](https://jupyter.org/)   — Eine hilfreiche Ressource zum Thema Algorithmen und Datenstrukturen.  
-- [Anaconda](https://www.anaconda.com/)   — Eine hilfreiche Ressource zum Thema Algorithmen und Datenstrukturen.  
+- [Jupyter](https://jupyter.org/)   — Eine hilfreiche Ressource zum Thema Algorithmen und Datenstrukturen.
+- [Anaconda](https://www.anaconda.com/)   — Eine hilfreiche Ressource zum Thema Algorithmen und Datenstrukturen.

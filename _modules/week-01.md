@@ -1,5 +1,5 @@
 ---
-title: Woche 1 - Organisation, erste ADTs: Liste, Stapel, Warteschlange, Tabelle
+title: "Woche 1 - Organisation, erste ADTs: Liste, Stapel, Warteschlange, Tabelle"
 ---
 
 28.09.
