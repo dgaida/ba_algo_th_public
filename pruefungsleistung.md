@@ -15,11 +15,11 @@ Auf dieser Seite finden Sie alle Informationen zur Prüfungsleistung für das Mo
 
 ## Alte Klausuren
 
-- *Noch keine alten Klausuren hochgeladen.*
+- [📄 AlgorithmikKlausurWS2223](/ba_algo_th_public/assets/exams/AlgorithmikKlausurWS2223.pdf)  
 
 ## Aufgabensammlung
 
-- *Noch keine Aufgabensammlungen hochgeladen.*
+- [📄 01 Algorithmik Übungsblatt1](/ba_algo_th_public/assets/tasks/01_Algorithmik_Übungsblatt1.pdf)  
 
 ---
 
