@@ -19,7 +19,7 @@ Auf dieser Seite finden Sie alle Informationen zur Prüfungsleistung für das Mo
 
 ## Aufgabensammlung
 
-- [📄 01 Algorithmik Übungsblatt1](/ba_algo_th_public/assets/tasks/01_Algorithmik_Übungsblatt1.pdf)  
+- *Noch keine Aufgabensammlungen hochgeladen.*
 
 ---
 
