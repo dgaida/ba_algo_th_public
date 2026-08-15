@@ -10,5 +10,5 @@ title: Woche 1 - Organisation, erste ADTs: Liste, Stapel, Warteschlange, Tabelle
 : **Übung**{: .label .label-blue } erste ADTs: Liste, Stapel, Warteschlange, Tabelle
   : Raum 0.503, 13:00-14:00
 
-  : **Materialien:**
+  : **Materialien:**  
     - [📄 Algorithmik Übungsblatt1](/ba_algo_th_public/assets/slides/01_Algorithmik_Übungsblatt1.pdf)  
