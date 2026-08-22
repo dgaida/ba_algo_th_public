@@ -11,4 +11,4 @@ title: "Woche 1 - Organisation, erste ADTs: Liste, Stapel, Warteschlange, Tabell
   : Raum 0.503, 13:00-14:00
 
   : **Materialien:**
-    - [📄 Algorithmik Übungsblatt1](/ba_algo_th_public/assets/slides/01_Algorithmik_Übungsblatt1.pdf) <span style="color: white; background-color: white;">algorithmik, datenstrukturen, abstrakte datentypen, warteschlange, o-notation</span>  
+    - [📄 Algorithmik Übungsblatt1](/ba_algo_th_public/assets/slides/01_Algorithmik_Übungsblatt1.pdf) <span style="font-size: 1px; color: white; background-color: white;">algorithmik, datenstrukturen, abstrakte datentypen, warteschlange, o-notation</span>  
