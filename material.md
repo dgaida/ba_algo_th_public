@@ -21,13 +21,13 @@ Sammlung weiterer Materialien zu den Themen des Moduls.
 
 Massive Open Online Courses.
 
-- [Python-Klasse von Google](https://developers.google.com/edu/python?hl=de)   — Eine hilfreiche Ressource zum Thema Algorithmen und Datenstrukturen.
-- [The Python Tutorial](https://docs.python.org/3.16/tutorial/)   — Eine hilfreiche Ressource zum Thema Algorithmen und Datenstrukturen.
-- [DataCamp](https://www.datacamp.com/)   — Eine hilfreiche Ressource zum Thema Algorithmen und Datenstrukturen.
-- [Spanning Tree: How Dijkstra's Algorithm Works](https://www.youtube.com/watch?v=EFg3u_E6eHU)   — Eine hilfreiche Ressource zum Thema Algorithmen und Datenstrukturen.
-- [Spanning Tree: How Do You Calculate a Minimum Spanning Tree?](https://www.youtube.com/watch?v=Yldkh0aOEcg)   — Eine hilfreiche Ressource zum Thema Algorithmen und Datenstrukturen.
-- [Spanning Tree: How to Count Dice Rolls - An Introduction to Dynamic Programming](https://www.youtube.com/watch?v=oifN-YVlrq8)   — Eine hilfreiche Ressource zum Thema Algorithmen und Datenstrukturen.
-- [Spanning Tree: Understanding B-Trees: The Data Structure Behind Modern Databases](https://www.youtube.com/watch?v=K1a2Bk8NrYQ)   — Eine hilfreiche Ressource zum Thema Algorithmen und Datenstrukturen.
+- [Python-Klasse von Google](https://developers.google.com/edu/python?hl=de)   — Die Seite bietet den kostenlosen Google‑Python‑Kurs mit Leitfäden, Vorlesungsvideos und Übungsaufgaben für Einsteiger, die bereits Grundkenntnisse in der Programmierung besitzen.
+- [The Python Tutorial](https://docs.python.org/3.16/tutorial/)   — Die Seite ist das offizielle Python‑Tutorial für die Version 3.16.0a0, das Programmierern, die neu in Python, aber bereits Grundkenntnisse in Programmierung besitzen, die grundlegenden Konzepte, Syntax und Features der Sprache sowie Hinweise zur Installation, Nutzung des Interpreters und Erweiterung mit C/C++ vermittelt.
+- [DataCamp](https://www.datacamp.com/)   — DataCamp ist eine Online‑Lernplattform, die ein breites Angebot an interaktiven Kursen zu Data Science, KI, Programmierung und verwandten Themen wie Python, R, SQL, Azure, AWS und Datenanalyse für Anfänger, Fortgeschrittene und Experten bereitstellt.
+- [Spanning Tree: How Dijkstra's Algorithm Works](https://www.youtube.com/watch?v=EFg3u_E6eHU)   — Eine YouTube‑Video‑Seite, auf der ein Video mit dem Titel des jeweiligen Clips abgespielt wird und die üblichen YouTube‑Navigationselemente sowie Footer‑Links zu rechtlichen und Unternehmensinformationen enthält.
+- [Spanning Tree: How Do You Calculate a Minimum Spanning Tree?](https://www.youtube.com/watch?v=Yldkh0aOEcg)   — Die Webseite zeigt das YouTube‑Video mit der ID Yldkh0aOEcg, eingebettet in das übliche YouTube‑Layout mit Navigation, Footer‑Links wie About, Press, Copyright und rechtlichen Hinweisen von Google.
+- [Spanning Tree: How to Count Dice Rolls - An Introduction to Dynamic Programming](https://www.youtube.com/watch?v=oifN-YVlrq8)   — Eine YouTube‑Videoseite, die das Video mit der ID oifN‑YVlrq8 im Player anzeigt und das übliche YouTube‑Interface mit Empfehlungen, Navigation und Footer‑Links zu rechtlichen Hinweisen, Werbung und Entwickler‑Informationen enthält.
+- [Spanning Tree: Understanding B-Trees: The Data Structure Behind Modern Databases](https://www.youtube.com/watch?v=K1a2Bk8NrYQ)   — Die Seite ist die YouTube‑Video‑Abspielseite für das Video mit der ID K1a2Bk8NrYQ, inklusive der üblichen YouTube‑Navigation, rechtlichen Hinweisen und dem Hinweis auf NFL Sunday Ticket 2026 von Google LLC.
 
 ## Webseiten
 
@@ -35,5 +35,5 @@ Massive Open Online Courses.
 
 ## Tools
 
-- [Jupyter](https://jupyter.org/)   — Eine hilfreiche Ressource zum Thema Algorithmen und Datenstrukturen.
-- [Anaconda](https://www.anaconda.com/)   — Eine hilfreiche Ressource zum Thema Algorithmen und Datenstrukturen.
+- [Jupyter](https://jupyter.org/)   — Die Webseite von Project Jupyter stellt die Open‑Source‑Plattform für interaktives Computing vor, bietet Jupyter Notebook, JupyterLab und weitere Tools, Dokumentation und Community‑Ressourcen für über 40 Programmiersprachen sowie Informationen zu Installation, Nutzung und Weiterentwicklung.
+- [Anaconda](https://www.anaconda.com/)   — Die Webseite von Anaconda stellt eine Open‑Source‑Plattform für KI‑Entwicklung und -Bereitstellung vor, die Python‑Paketverwaltung, AI‑Orchestrierung, Cloud‑ und Self‑Hosted‑Optionen, Produkte, Lösungen, Support‑Ressourcen und Unternehmensinformationen bietet.
