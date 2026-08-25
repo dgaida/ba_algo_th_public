@@ -10,5 +10,5 @@ title: "Woche 7 - Prioritätswarteschlange, Heap"
 : **Übung**{: .label .label-blue } Prioritätswarteschlange, Heap
   : Raum 0.503, 13:00-14:00
 
-  : **Materialien:**  
-    - [📄 Algorithmik Übungsblatt6](/ba_algo_th_public/assets/slides/07_Algorithmik_Übungsblatt6.pdf) <span style="font-size: 1px; color: white; background-color: white;">prioritätswarteschlange, heap, algorithmik, datenstrukturen, o-notation</span>  
+  : **Materialien:**
+    - [📄 Algorithmik Übungsblatt6](/ba_algo_th_public/assets/slides/07_Algorithmik_Übungsblatt6.pdf) <span style="font-size: 1px; color: white; background-color: white;">heap, prioritätswarteschlange, algorithmik, datenstrukturen, o-notation</span>  
