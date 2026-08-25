@@ -7,7 +7,7 @@ nav_order: 5
 
 # Prüfungsleistung
 
-Auf dieser Seite finden Sie alle Informationen zur Prüfungsleistung für das Modul "Deep Learning, Machine Learning und KI".
+Auf dieser Seite finden Sie alle Informationen zur Prüfungsleistung für das Modul "Algorithmik".
 
 ## Informationen zur Klausur
 
@@ -25,7 +25,7 @@ Auf dieser Seite finden Sie alle Informationen zur Prüfungsleistung für das Mo
 
 ## Aufgabensammlung
 
-- *Noch keine Aufgabensammlungen hochgeladen.*
+- *Noch keine Aufgabensammlungen hochgeladen.*  
 
 ---
 
