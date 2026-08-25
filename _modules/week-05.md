@@ -9,3 +9,6 @@ title: "Woche 5 - Binäre Suchbäume"
 12.10.
 : **Übung**{: .label .label-blue } Binäre Suchbäume
   : Raum 0.503, 13:00-14:00
+
+  : **Materialien:**
+    - [📄 Algorithmik Übungsblatt5](/ba_algo_th_public/assets/slides/05_Algorithmik_Übungsblatt5.pdf) <span style="font-size: 1px; color: white; background-color: white;">algorithmik, binäre suchbäume, avl-baum, datenstrukturen, laufzeitanalyse</span>  
