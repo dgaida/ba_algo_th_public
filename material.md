@@ -32,6 +32,8 @@ Massive Open Online Courses.
 ## Webseiten
 
 - [Maths, CS \& AI Compendium - Chapter 14: Data Strutures and Algorithms](https://github.com/HenryNdubuaku/maths-cs-ai-compendium/tree/main/chapter%2014%20-%20data%20structures%20and%20algorithms)   — Dieses GitHub-Repository enthält ein strukturiertes Kompendium zu grundlegenden Datenstrukturen und Algorithmen als Teil eines umfassenden Nachschlagewerks für Mathematik, Informatik und künstliche Intelligenz.
+- [Vorlesung Algorithmen und Datenstrukturen - Prof. Dr. A. Gogol-Döring](https://www.youtube.com/playlist?list=PLS9zS1HoFtXuAXuaZcQHs89xl1HzIXOoh)   — Diese YouTube-Playlist enthält eine Vorlesungsreihe zum Thema Algorithmen und Datenstrukturen.
+- [University of Washington - CSE373: Data Structures and Algorithms](https://courses.cs.washington.edu/courses/cse373/)   — Diese Webseite bietet Informationen zum Kurs über Datenstrukturen und Algorithmen an der University of Washington, einschließlich Kursinhalten, Voraussetzungen und administrativen Details.
 
 ## Tools
 
