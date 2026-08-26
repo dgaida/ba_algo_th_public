@@ -11,4 +11,4 @@ title: "Woche 8 - Graphen I"
   : Raum 0.503, 13:00-14:00
 
   : **Materialien:**
-    - [📄 Algorithmik Übungsblatt7](/ba_algo_th_public/assets/slides/08_Algorithmik_Übungsblatt7.pdf) <span style="font-size: 1px; color: white; background-color: white;">graphen, breitensuche, tiefensuche, dijkstra-algorithmus, kürzeste pfade</span>  
+    - [📄 Algorithmik Übungsblatt7](/ba_algo_th_public/assets/slides/08_Algorithmik_Übungsblatt7.pdf) <span style="font-size: 1px; color: white; background-color: white;">graphentheorie, breitensuche, tiefensuche, dijkstra-algorithmus, kürzeste pfade</span>  
