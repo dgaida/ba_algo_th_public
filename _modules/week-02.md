@@ -13,4 +13,4 @@ title: "Woche 2 - Asymptotische Analyse"
   : **Materialien:**
     - [📄 Algorithmik AsymptotischeAnalyse](/ba_algo_th_public/assets/slides/02_Algorithmik_AsymptotischeAnalyse.pdf) <span style="font-size: 1px; color: white; background-color: white;">algorithmik, laufzeitanalyse, o-notation, datenstrukturen, fallanalyse</span>  
     - [📄 Algorithmik AsymptotischeAnalyse animated](/ba_algo_th_public/assets/slides/02_Algorithmik_AsymptotischeAnalyse_animated.pdf)  
-    - [📄 Algorithmik Übungsblatt2](/ba_algo_th_public/assets/slides/02_Algorithmik_Übungsblatt2.pdf) <span style="font-size: 1px; color: white; background-color: white;">asymptotische analyse, laufzeit, algorithmus, o-notation, algorithmik</span>  
+    - [📄 Algorithmik Übungsblatt2](/ba_algo_th_public/assets/slides/02_Algorithmik_Übungsblatt2.pdf) <span style="font-size: 1px; color: white; background-color: white;">asymptotische analyse, algorithmik, laufzeitkomplexität, o-notation, datenstrukturen</span>  
