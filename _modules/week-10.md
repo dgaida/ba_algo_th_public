@@ -13,4 +13,4 @@ title: "Woche 10 - Graphen III: Minimale Spannbäume"
   : **Materialien:**
     - [📄 Algorithmik MinSpannbäume](/ba_algo_th_public/assets/slides/10_Algorithmik_MinSpannbäume.pdf) <span style="font-size: 1px; color: white; background-color: white;">minimale spannbäume, algorithmus von prim, algorithmus von kruskal, disjunkte mengen, union-find</span>  
     - [📄 Algorithmik MinSpannbäume animated](/ba_algo_th_public/assets/slides/10_Algorithmik_MinSpannbäume_animated.pdf)  
-    - [📄 Algorithmik Übungsblatt8](/ba_algo_th_public/assets/slides/10_Algorithmik_Übungsblatt8.pdf) <span style="font-size: 1px; color: white; background-color: white;">minimale spannbäume, prim-algorithmus, kruskal-algorithmus, disjunkte mengen, algorithmik</span>  
+    - [📄 Algorithmik Übungsblatt8](/ba_algo_th_public/assets/slides/10_Algorithmik_Übungsblatt8.pdf) <span style="font-size: 1px; color: white; background-color: white;">minimale spannbäume, prim-algorithmus, kruskal-algorithmus, union-find, algorithmik</span>  
