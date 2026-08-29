@@ -20,7 +20,7 @@ Der Online-Marktplatz, den Sie entwickeln werden, soll eine voll funktionsfähig
 
 Das Projekt ist in drei Teilprojekte unterteilt, wobei Sie eine bereits implementierte Rohversion des Marktplatzes in Python erhalten. Zu den drei Praktikumsterminen stellen Sie das jeweilige Teilprojekt vor.
 
-- [GUI Benutzerhandbuch (User Manual)](gui_user_manual.md)
+- [GUI Benutzerhandbuch (User Manual)](gui_user_manual.md)  
 - [Teilprojekt 1: Projektanalyse und Verständnis](teilprojekt_1.md)  
 - [Teilprojekt 2: Erweiterung der Artikel- und Auktionsverwaltung](teilprojekt_2.md)  
 - [Teilprojekt 3: Freundesverwaltung, Gebotsagenten und Empfehlungssystem](teilprojekt_3.md)  

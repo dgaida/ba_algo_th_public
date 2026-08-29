@@ -12,10 +12,10 @@ Willkommen zum Benutzerhandbuch der grafischen Benutzeroberfläche (GUI) des Onl
 
 Im oberen rechten Bereich der Anwendung befindet sich die Leiste zur **Benutzerkonto-Verwaltung**.
 
-* **Login:** Geben Sie Ihre User-ID (z. B. Ihre GM-ID) sowie Ihr Passwort (Standard: `abcde`) ein und klicken Sie auf **Einloggen**.
-* **Registrieren:** Falls Sie noch keinen Account besitzen, können Sie über den Button **Registrieren** ein neues Konto mit der eingegebenen User-ID erstellen.
-* **Mein Account:** Nach dem Login können Sie über **Mein Account** Ihre Nutzerdaten (User-ID, Name, Passwort sowie aktuelles Guthaben) einsehen.
-* **Logout:** Meldet Sie sicher ab und deaktiviert die Marktplatz-Funktionen bis zur nächsten Anmeldung.
+* **Login:** Geben Sie Ihre User-ID (z. B. Ihre GM-ID) sowie Ihr Passwort (Standard: `abcde`) ein und klicken Sie auf **Einloggen**.  
+* **Registrieren:** Falls Sie noch keinen Account besitzen, können Sie über den Button **Registrieren** ein neues Konto mit der eingegebenen User-ID erstellen.  
+* **Mein Account:** Nach dem Login können Sie über **Mein Account** Ihre Nutzerdaten (User-ID, Name, Passwort sowie aktuelles Guthaben) einsehen.  
+* **Logout:** Meldet Sie sicher ab und deaktiviert die Marktplatz-Funktionen bis zur nächsten Anmeldung.  
 
 ---
 
@@ -65,9 +65,9 @@ Wenn Sie als Verkäufer aktiv werden möchten, klicken Sie auf **Auktion hinzuf�
 
 Geben Sie dort folgende Daten ein:
 
-1. **Name:** Bezeichnung des Produkts.
-2. **Beschreibung:** Detaillierte Produktbeschreibung.
-3. **Mindestgebot (€):** Startpreis bzw. Mindestgebotsbetrag.
+1. **Name:** Bezeichnung des Produkts.  
+2. **Beschreibung:** Detaillierte Produktbeschreibung.  
+3. **Mindestgebot (€):** Startpreis bzw. Mindestgebotsbetrag.  
 
 Klicken Sie auf **OK**, um die Auktion zu veröffentlichen.
 
@@ -83,17 +83,17 @@ Im rechten Bereich der Anwendung befindet sich die Übersicht **Alle Auktionen**
 
 ### Produktsuche und Autovervollständigung
 
-* Geben Sie einen Suchbegriff in das Suchfeld ein und klicken Sie auf **Suchen**.
-* Während der Eingabe werden Ihnen automatisch Vorschläge aus den verfuegbaren Artikeln eingeblendet (Auto-Vervollständigung).
-* Die Auktionsliste wird entsprechend gefiltered angezeigt (z. B. Filterung nach bestimmten Begriffen wie "CD").
+* Geben Sie einen Suchbegriff in das Suchfeld ein und klicken Sie auf **Suchen**.  
+* Während der Eingabe werden Ihnen automatisch Vorschläge aus den verfuegbaren Artikeln eingeblendet (Auto-Vervollständigung).  
+* Die Auktionsliste wird entsprechend gefiltered angezeigt (z. B. Filterung nach bestimmten Begriffen wie "CD").  
 
 ![Gefilterte Auktionen](images/main_screen_filtered_auctions_cd.png)
 
 ### Details einsehen und Bieten
 
-* Wählen Sie eine Auktion aus der Liste **Alle Auktionen** (oder aus Ihren Geboten/Empfehlungen) aus.
-* Unterhalb der Liste erscheint das Detailfenster mit Informationen wie Auktions-ID, Produktname, Beschreibung, Verkäufer, Mindestgebot, aktuell hoechstem Gebot, Höchstbietendem und verbleibender Restzeit.
-* Tragen Sie den gewünschten Gebotsbetrag in das Feld ein und klicken Sie auf **Bieten**. Das Gebot wird verarbeitet, sofern Ihr Guthaben ausreicht und das Gebot höher als das aktuelle Höchstgebot ist.
+* Wählen Sie eine Auktion aus der Liste **Alle Auktionen** (oder aus Ihren Geboten/Empfehlungen) aus.  
+* Unterhalb der Liste erscheint das Detailfenster mit Informationen wie Auktions-ID, Produktname, Beschreibung, Verkäufer, Mindestgebot, aktuell hoechstem Gebot, Höchstbietendem und verbleibender Restzeit.  
+* Tragen Sie den gewünschten Gebotsbetrag in das Feld ein und klicken Sie auf **Bieten**. Das Gebot wird verarbeitet, sofern Ihr Guthaben ausreicht und das Gebot höher als das aktuelle Höchstgebot ist.  
 
 ---
 
@@ -101,6 +101,6 @@ Im rechten Bereich der Anwendung befindet sich die Übersicht **Alle Auktionen**
 
 Im linken unteren Bereich befindet sich der Bereich **Meine Freunde und Gruppenmitglieder**.
 
-* **Freund hinzufügen:** Klicken Sie auf **Freund hinzufügen** und geben Sie die User-ID des gewünschten Nutzers ein.
-* **Freund entfernen:** Wählen Sie einen Nutzer aus der Freundesliste aus und klicken Sie auf **Freund entfernen**.
-* **Freundesempfehlungen:** Auf der rechten Seite der Freundesbox werden Ihnen Nutzer vorgeschlagen ("User mit denen meine Freunde befreundet sind"), um Ihr Netzwerk zu erweitern.
+* **Freund hinzufügen:** Klicken Sie auf **Freund hinzufügen** und geben Sie die User-ID des gewünschten Nutzers ein.  
+* **Freund entfernen:** Wählen Sie einen Nutzer aus der Freundesliste aus und klicken Sie auf **Freund entfernen**.  
+* **Freundesempfehlungen:** Auf der rechten Seite der Freundesbox werden Ihnen Nutzer vorgeschlagen ("User mit denen meine Freunde befreundet sind"), um Ihr Netzwerk zu erweitern.  
