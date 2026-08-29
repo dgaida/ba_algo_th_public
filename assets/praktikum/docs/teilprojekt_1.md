@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Teilprojekt 1: Projektanalyse und Verständnis
 
 [Zurueck zur Uebersicht](index.md)

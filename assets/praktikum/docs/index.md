@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Online-Marktplatz: Projektbeschreibung und Aufgabenstellung
 
 ## Projektbeschreibung

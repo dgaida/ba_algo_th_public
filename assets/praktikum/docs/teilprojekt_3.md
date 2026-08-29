@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Teilprojekt 3: Freundesverwaltung, Gebotsagenten und Empfehlungssystem
 
 [Zurueck zur Uebersicht](index.md)

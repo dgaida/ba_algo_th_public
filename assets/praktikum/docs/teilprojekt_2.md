@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Teilprojekt 2: Erweiterung der Artikel- und Auktionsverwaltung
 
 [Zurueck zur Uebersicht](index.md)
