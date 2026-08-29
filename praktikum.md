@@ -56,10 +56,10 @@ conda activate marketplace
 
 Die vollständige Aufgabenstellung sowie Beschreibungen zu allen drei Teilprojekten finden Sie im Ordner `docs/`:
 
-- [Aufgabenstellung Übersicht](/ba_algo_th_public/assets/praktikum/docs/index.md)  
-- [Teilprojekt 1: Projektanalyse und Verständnis](/ba_algo_th_public/assets/praktikum/docs/teilprojekt_1.md)  
-- [Teilprojekt 2: Erweiterung der Artikel- und Auktionsverwaltung](/ba_algo_th_public/assets/praktikum/docs/teilprojekt_2.md)  
-- [Teilprojekt 3: Freundesverwaltung, Gebotsagenten und Empfehlungssystem](/ba_algo_th_public/assets/praktikum/docs/teilprojekt_3.md)  
+- [Aufgabenstellung Übersicht](https://github.com/dgaida/ba_algo_th_public/tree/main/assets/praktikum/docs/index.md)  
+- [Teilprojekt 1: Projektanalyse und Verständnis](https://github.com/dgaida/ba_algo_th_public/tree/main/assets/praktikum/docs/teilprojekt_1.md)  
+- [Teilprojekt 2: Erweiterung der Artikel- und Auktionsverwaltung](https://github.com/dgaida/ba_algo_th_public/tree/main/assets/praktikum/docs/teilprojekt_2.md)  
+- [Teilprojekt 3: Freundesverwaltung, Gebotsagenten und Empfehlungssystem](https://github.com/dgaida/ba_algo_th_public/tree/main/assets/praktikum/docs/teilprojekt_3.md)  
 
 ## Anwendung starten
 
