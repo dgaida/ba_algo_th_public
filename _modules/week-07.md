@@ -10,7 +10,7 @@ title: "Woche 7 - Prioritätswarteschlange, Heap"
 : **Übung**{: .label .label-blue } Prioritätswarteschlange, Heap
   : Raum 0.503, 13:00-14:00
 
-  : **Materialien:**  
-    - [📄 Algorithmik Heaps](/ba_algo_th_public/assets/slides/07_Algorithmik_Heaps.pdf) <span style="font-size: 1px; color: white; background-color: white;">prioritätswarteschlange, binärer heap, heap, datenstrukturen, algorithmik</span>  
+  : **Materialien:**
+    - [📄 Algorithmik Heaps](/ba_algo_th_public/assets/slides/07_Algorithmik_Heaps.pdf) <span style="font-size: 1px; color: white; background-color: white;">prioritätswarteschlange, binärer heap, heap-invariante, datenstrukturen, algorithmik</span>  
     - [📄 Algorithmik Heaps animated](/ba_algo_th_public/assets/slides/07_Algorithmik_Heaps_animated.pdf)  
-    - [📄 Algorithmik Übungsblatt6](/ba_algo_th_public/assets/slides/07_Algorithmik_Übungsblatt6.pdf) <span style="font-size: 1px; color: white; background-color: white;">prioritätswarteschlange, heap, datenstrukturen, algorithmik, laufzeitanalyse</span>  
+    - [📄 Algorithmik Übungsblatt6](/ba_algo_th_public/assets/slides/07_Algorithmik_Übungsblatt6.pdf) <span style="font-size: 1px; color: white; background-color: white;">prioritätswarteschlange, heap, datenstrukturen, algorithmus, laufzeitanalyse</span>  
