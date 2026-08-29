@@ -13,4 +13,4 @@ title: "Woche 12 - Sortieralgorithmen"
   : **Materialien:**
     - [📄 Algorithmik SortierAlgos](/ba_algo_th_public/assets/slides/12_Algorithmik_SortierAlgos.pdf) <span style="font-size: 1px; color: white; background-color: white;">sortieralgorithmen, algorithmik, datenstrukturen, divide and conquer, laufzeitanalyse</span>  
     - [📄 Algorithmik SortierAlgos animated](/ba_algo_th_public/assets/slides/12_Algorithmik_SortierAlgos_animated.pdf)  
-    - [📄 Algorithmik Übungsblatt9](/ba_algo_th_public/assets/slides/12_Algorithmik_Übungsblatt9.pdf) <span style="font-size: 1px; color: white; background-color: white;">sortieralgorithmen, laufzeitanalyse, datenstrukturen, algorithmik, effizienz</span>  
+    - [📄 Algorithmik Übungsblatt9](/ba_algo_th_public/assets/slides/12_Algorithmik_Übungsblatt9.pdf) <span style="font-size: 1px; color: white; background-color: white;">sortieralgorithmen, algorithmik, laufzeit, datenstrukturen, asymptotische analyse</span>  
