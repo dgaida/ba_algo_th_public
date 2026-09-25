@@ -40,7 +40,7 @@ shortest_path = ox.routing.shortest_path(
 distance_m = nx.path_weight(map_graph, shortest_path, weight='length')  # Länge in Metern
 ```
 
-- Hinweis: Die Wohnorte liegen über ganz NRW und Umgebung verteilt. Ein Straßengraph für dieses Gebiet ist sehr groß, der Download dauert lange und braucht viel Arbeitsspeicher. Laden Sie den Graphen deshalb nur einmal, speichern Sie ihn lokal (`ox.save_graphml()` / `ox.load_graphml()`) und berechnen Sie Distanzen nur für die Nutzer, die Sie tatsächlich benötigen. Für große Gebiete kann es außerdem helfen, nur größere Straßen zu laden (Parameter `custom_filter`).
+- Hinweis: Die Wohnorte liegen über ganz NRW und Umgebung verteilt. Ein Straßengraph für dieses Gebiet ist sehr groß, der Download dauert lange und braucht viel Arbeitsspeicher. Laden Sie den Graphen deshalb nur einmal, speichern Sie ihn lokal (`ox.save_graphml()` / `ox.load_graphml()`) und berechnen Sie Distanzen nur für die Nutzer, die Sie tatsächlich benötigen. Für große Gebiete kann es außerdem helfen, nur größere Straßen zu laden (Parameter `custom_filter`).  
 
 ### 2. Portoberechnung (optionale Aufgabe)
 
