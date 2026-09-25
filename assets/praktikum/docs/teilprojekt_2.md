@@ -4,7 +4,7 @@ nav_exclude: true
 
 # Teilprojekt 2: Erweiterung der Artikel- und Auktionsverwaltung
 
-[Zurueck zur Uebersicht](index.md)
+[Zurück zur Übersicht](index.md)
 
 ## Ziele
 
@@ -21,7 +21,7 @@ nav_exclude: true
 
 ### 2. Interaktion und Feedback
 
-- Fügen Sie eine Bewertungsfunktion (1 bis 5 Sterne) hinzu, mit der Nutzer Verkäufer bewerten können. Der am besten bewertete Verkäufer soll alle 30 Sekunden als Systemnachricht angezeigt werden. Es soll die am besten geeignete Datenstruktur gewählt werden. Beachten Sie, dass sich der am besten bewertete Verkäufer während der Laufzeit des Programms verändern kann (s. Ähnlichkeit zu aktivste Auktion oben). In `auctions.py` finden Sie bereits die Methode `get_top_rated_user()`, die den beliebtesten Nutzer liefert. Dieser wird auch bereits als Systemnachricht ausgegeben, s. `update_listboxes()` in `gui_marketplace.py`. Sie sollen lediglich eine bessere Datenstruktur wählen und die Methode `get_top_rated_user()` anpassen (s. TODOs in `auctions.py`).  
+- Nutzer können Verkäufer mit 1 bis 5 Sternen bewerten. Die Bewertungen werden in `simulator.py` simuliert (`randomly_rate_users()`). Der am besten bewertete Verkäufer wird bereits alle 30 Sekunden als Systemnachricht angezeigt (s. `update_listboxes()` in `gui_marketplace.py`). Die Methode `get_top_rated_user()` in `auctions.py` ermittelt ihn bisher allerdings, indem sie alle Nutzer durchläuft. Wählen Sie die am besten geeignete Datenstruktur und passen Sie `get_top_rated_user()` an (s. TODOs in `auctions.py`). Beachten Sie, dass sich der am besten bewertete Verkäufer während der Laufzeit des Programms verändern kann (s. Ähnlichkeit zu aktivste Auktion oben): Ihre Datenstruktur muss nach jeder Bewertung aktualisiert werden (s. TODO in `simulator.py`). Optional können Sie in der GUI einen Button ergänzen, mit dem man Verkäufer bewerten kann.  
 
 ### 3. Dokumentation
 

@@ -11,7 +11,7 @@ Dieses Verzeichnis enthält die Codebasis und Dokumentation für das Praktikum i
 
 ## Downloads
 
-- 📦 **[marketplace.zip](/ba_algo_th_public/assets/praktikum/marketplace.zip)** — Startercode für das Praktikum
+- 📦 **[marketplace.zip](/ba_algo_th_public/assets/praktikum/marketplace.zip)** — Startercode für das Praktikum  
 
 ## Projektübersicht
 
@@ -64,7 +64,7 @@ Die vollständige Aufgabenstellung sowie Beschreibungen zu allen drei Teilprojek
 
 ## Anwendung starten
 
-Um die Anwendung zu starten, führen Sie im Ordner `praktikum/marketplace` folgenden Befehl aus:
+Um die Anwendung zu starten, führen Sie im entpackten Ordner `marketplace` (dort liegen auch `user.csv`, `friends.csv` und `auctions.csv`) folgenden Befehl aus:
 
 ```bash
 python gui_marketplace.py
@@ -74,7 +74,7 @@ Standardmäßig können Sie sich mit Ihrer GM-ID und dem Passwort `abcde` anmeld
 
 ## Tests ausführen
 
-Die Unit-Tests befinden sich im Ordner `tests/`. Sie können mit `pytest` ausgeführt werden:
+Eigene Unit-Tests für Ihre Implementierungen können Sie im Ordner `tests/` anlegen (Dateinamen `test_*.py`) und mit `pytest` ausführen:
 
 ```bash
 pytest tests/

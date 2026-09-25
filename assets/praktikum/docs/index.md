@@ -16,7 +16,7 @@ Der Online-Marktplatz, den Sie entwickeln werden, soll eine voll funktionsfähig
 - **Auktionsverwaltung:** Bieten auf Artikel, Anzeige von Geboten, Anzeige gewonnener und verkaufter Artikel.  
 - **Empfehlungssystem:** Anzeige empfohlener Artikel basierend auf dem Benutzerverhalten.  
 
-## Uebersicht der Teilprojekte
+## Übersicht der Teilprojekte
 
 Das Projekt ist in drei Teilprojekte unterteilt, wobei Sie eine bereits implementierte Rohversion des Marktplatzes in Python erhalten. Zu den drei Praktikumsterminen stellen Sie das jeweilige Teilprojekt vor.
 
@@ -33,13 +33,15 @@ Das Projekt ist in drei Teilprojekte unterteilt, wobei Sie eine bereits implemen
 - `max_heap.py`: Speichert die Auktionen in einem Heap. Editieren Sie im 2. Praktikum.  
 - `users.py`: Definiert einen Container für alle Nutzer der Plattform. Editieren Sie im 3. Praktikum.  
 - `auctions.py`: Definiert Container für alle Auktionen. Editieren Sie im 2. Praktikum.  
-- `transactions.py`: Speichert die getätigten Transaktionen in eine Hashtabelle. Editieren Sie im 2. Praktikum.  
+- `transactions.py`: Speichert die getätigten Transaktionen in eine Hashtabelle. Editieren Sie im 1. Praktikum.  
+- `auctionapp_init.py`: Initialisiert die GUI. Editieren Sie im 1. Praktikum (`initialize_trie()`, `show_suggestions()`).  
+- `simulator.py`: Simuliert Kauf- und Verkaufvorgänge sowie Bewertungen auf dem Marktplatz. Editieren Sie im 2. Praktikum (`randomly_rate_users()`).  
+- `auction.py`: Definiert eine Auktion. Editieren Sie im 3. Praktikum, falls Sie die optionale Portoberechnung umsetzen.  
 
 ### Dateien, die Sie sich ansehen können
 
 - `item.py`: Definiert ein Produkt, das ersteigert werden kann.  
 - `stack.py`: Implementierung eines Stacks.  
-- `auction.py`: Definiert eine Auktion.  
 - `user.py`: Definiert einen Nutzer des Marktplatzes.  
 - `systemmessages.py`: Anzeige von Systemnachrichten auf der GUI.  
 - `trie.py`: Implementierung der Datenstruktur Trie.  
@@ -48,8 +50,6 @@ Das Projekt ist in drei Teilprojekte unterteilt, wobei Sie eine bereits implemen
 ### Unterstützende Dateien
 
 - `gui_marketplace.py`: Enthält die main. Mit `python gui_marketplace.py` starten Sie die Anwendung.  
-- `auctionapp_init.py`: Initialisiert die GUI.  
-- `simulator.py`: Simuliert Kauf- und Verkaufvorgänge auf dem Marktplatz.  
 
 ## Abschluss
 

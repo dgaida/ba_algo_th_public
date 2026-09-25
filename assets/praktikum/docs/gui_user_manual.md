@@ -84,16 +84,16 @@ Im rechten Bereich der Anwendung befindet sich die Übersicht **Alle Auktionen**
 ### Produktsuche und Autovervollständigung
 
 * Geben Sie einen Suchbegriff in das Suchfeld ein und klicken Sie auf **Suchen**.  
-* Während der Eingabe werden Ihnen automatisch Vorschläge aus den verfuegbaren Artikeln eingeblendet (Auto-Vervollständigung).  
-* Die Auktionsliste wird entsprechend gefiltered angezeigt (z. B. Filterung nach bestimmten Begriffen wie "CD").  
+* Während der Eingabe werden Ihnen automatisch Vorschläge aus den verfügbaren Artikeln eingeblendet (Auto-Vervollständigung).  
+* Die Auktionsliste wird entsprechend gefiltert angezeigt (z. B. Filterung nach bestimmten Begriffen wie "CD").  
 
 ![Gefilterte Auktionen](images/main_screen_filtered_auctions_cd.png)
 
 ### Details einsehen und Bieten
 
 * Wählen Sie eine Auktion aus der Liste **Alle Auktionen** (oder aus Ihren Geboten/Empfehlungen) aus.  
-* Unterhalb der Liste erscheint das Detailfenster mit Informationen wie Auktions-ID, Produktname, Beschreibung, Verkäufer, Mindestgebot, aktuell hoechstem Gebot, Höchstbietendem und verbleibender Restzeit.  
-* Tragen Sie den gewünschten Gebotsbetrag in das Feld ein und klicken Sie auf **Bieten**. Das Gebot wird verarbeitet, sofern Ihr Guthaben ausreicht und das Gebot höher als das aktuelle Höchstgebot ist.  
+* Unterhalb der Liste erscheint das Detailfenster mit Informationen wie Auktions-ID, Produktname, Beschreibung, Verkäufer, Mindestgebot, aktuell höchstem Gebot, Höchstbietendem und verbleibender Restzeit.  
+* Tragen Sie den gewünschten Gebotsbetrag in das Feld ein und klicken Sie auf **Bieten**. Das Gebot wird verarbeitet, sofern die Auktion noch läuft, Ihr Guthaben ausreicht, das Gebot mindestens dem Mindestgebot entspricht und, falls Sie schon geboten haben, höher als Ihr bisheriges Gebot ist. Wer bei Auktionsende das höchste Gebot abgegeben hat, gewinnt die Auktion.  
 
 ---
 
