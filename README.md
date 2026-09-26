@@ -10,7 +10,7 @@ seo:
 
 # Algorithmik
 
-Pflichtfach an der Technischen Hochschule Köln
+Pflichtfach an der Technischen Hochschule Köln im Studiengang Informatik.
 
 ## Learning Outcomes
 
