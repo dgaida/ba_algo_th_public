@@ -19,13 +19,15 @@ Auf dieser Seite finden Sie alle Informationen zur Prüfungsleistung für das Mo
 - [📄 AlgorithmikKlausurSoSe23 2](/ba_algo_th_public/assets/exams/AlgorithmikKlausurSoSe23_2.pdf)  
 - [📄 AlgorithmikKlausurSoSe24](/ba_algo_th_public/assets/exams/AlgorithmikKlausurSoSe24.pdf)  
 - [📄 AlgorithmikKlausurSoSe24 2](/ba_algo_th_public/assets/exams/AlgorithmikKlausurSoSe24_2.pdf)  
+- [📄 AlgorithmikKlausurSoSe25 1](/ba_algo_th_public/assets/exams/AlgorithmikKlausurSoSe25_1.pdf)  
+- [📄 AlgorithmikKlausurSoSe26 2](/ba_algo_th_public/assets/exams/AlgorithmikKlausurSoSe26_2.pdf)  
 - [📄 AlgorithmikKlausurWS2223](/ba_algo_th_public/assets/exams/AlgorithmikKlausurWS2223.pdf)  
 - [📄 AlgorithmikKlausurWS2324](/ba_algo_th_public/assets/exams/AlgorithmikKlausurWS2324.pdf)  
 - [📄 AlgorithmikKlausurWS2425](/ba_algo_th_public/assets/exams/AlgorithmikKlausurWS2425.pdf)  
 
 ## Aufgabensammlung
 
-- *Noch keine Aufgabensammlungen hochgeladen.*  
+- *Noch keine Aufgabensammlungen hochgeladen.*
 
 ---
 
