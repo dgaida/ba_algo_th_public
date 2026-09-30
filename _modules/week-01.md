@@ -13,5 +13,5 @@ title: "Woche 1 - Organisation, erste ADTs: Liste, Stapel, Warteschlange, Tabell
   : **Materialien:**
     - [📄 Algorithmik AbstrakteDatentypen](/ba_algo_th_public/assets/slides/01_Algorithmik_AbstrakteDatentypen.pdf) <span style="font-size: 1px; color: white; background-color: white;">abstrakte datentypen, datenstrukturen, algorithmik, laufzeitanalyse, o-notation</span>  
     - [📄 Algorithmik AbstrakteDatentypen animated](/ba_algo_th_public/assets/slides/01_Algorithmik_AbstrakteDatentypen_animated.pdf)  
-    - [📄 Algorithmik Organisatorisches](/ba_algo_th_public/assets/slides/01_Algorithmik_Organisatorisches.pdf) <span style="font-size: 1px; color: white; background-color: white;">algorithmik, datenstrukturen, python, laufzeitanalyse, speicherbedarfsanalyse</span>  
+    - [📄 Algorithmik Organisatorisches](/ba_algo_th_public/assets/slides/01_Algorithmik_Organisatorisches.pdf) <span style="font-size: 1px; color: white; background-color: white;">algorithmik, datenstrukturen, python, laufzeitanalyse, neuronale netze</span>  
     - [📄 Algorithmik Übungsblatt1](/ba_algo_th_public/assets/slides/01_Algorithmik_Übungsblatt1.pdf) <span style="font-size: 1px; color: white; background-color: white;">algorithmen, datenstrukturen, abstrakte datentypen, warteschlange, o-notation</span>  
