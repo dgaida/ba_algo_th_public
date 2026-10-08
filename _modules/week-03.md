@@ -13,4 +13,4 @@ title: "Woche 3 - Asymptotische Analyse rekursiver Algorithmen"
   : **Materialien:**
     - [📄 Algorithmik AnalyseRekursiveCode](/ba_algo_th_public/assets/slides/03_Algorithmik_AnalyseRekursiveCode.pdf) <span style="font-size: 1px; color: white; background-color: white;">algorithmik, laufzeitanalyse, asymptotische notation, rekursive algorithmen, mastermethode</span>  
     - [📄 Algorithmik AnalyseRekursiveCode animated](/ba_algo_th_public/assets/slides/03_Algorithmik_AnalyseRekursiveCode_animated.pdf)  
-    - [📄 Algorithmik Übungsblatt3](/ba_algo_th_public/assets/slides/03_Algorithmik_Übungsblatt3.pdf) <span style="font-size: 1px; color: white; background-color: white;">asymptotische analyse, rekursive algorithmen, mastermethode, laufzeitkomplexität, algorithmik</span>  
+    - [📄 Algorithmik Übungsblatt3](/ba_algo_th_public/assets/slides/03_Algorithmik_Übungsblatt3.pdf) <span style="font-size: 1px; color: white; background-color: white;">algorithmik, asymptotische laufzeit, mastermethode, rekursionsgleichung, theta-notation</span>  
