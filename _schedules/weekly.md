@@ -30,22 +30,22 @@ schedule:
         start: 1:00 PM
         end: 2:00 PM
         location: 0.503 Campus Gummersbach
-        class: section  
-      - name: Lecture  
+        class: section
+      - name: Lecture
         start: 9:30 AM
         end: 12:00 PM
         location: 3.216 Campus Gummersbach
-        class: lecture  
-      - name: Section  
+        class: lecture
+      - name: Section
         start: 1:00 PM
         end: 2:00 PM
         location: 3.216 Campus Gummersbach
-        class: section  
-  - name: Tuesday  
-  - name: Wednesday  
-  - name: Thursday  
-    events:  
-      - name: Lecture  
+        class: section
+  - name: Tuesday
+  - name: Wednesday
+  - name: Thursday
+    events:
+      - name: Lecture
         start: 9:30 AM
         end: 12:00 PM
         location: 0.503 Campus Gummersbach
