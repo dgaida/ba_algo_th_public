@@ -11,7 +11,7 @@ Dieses Verzeichnis enthält die Codebasis und Dokumentation für das Praktikum i
 
 ## Downloads
 
-- 📦 **[ILU-Kurswebseite Algorithmik](https://ilu.th-koeln.de/)** — Die ZIP-Datei `marketplace.zip` (Startercode für das Praktikum) kann auf der ILU-Kurswebseite heruntergeladen werden.  
+- 📦 **[ILU-Kurswebseite Algorithmik](https://ilu.th-koeln.de/)** — Die ZIP-Datei `marketplace.zip` (Startercode für das Praktikum) kann auf der ILU-Kurswebseite heruntergeladen werden.
 
 ## Projektübersicht
 
