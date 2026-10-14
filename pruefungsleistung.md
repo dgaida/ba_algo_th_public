@@ -27,7 +27,7 @@ Auf dieser Seite finden Sie alle Informationen zur Prüfungsleistung für das Mo
 
 ## Aufgabensammlung
 
-- *Noch keine Aufgabensammlungen hochgeladen.*
+- *Noch keine Aufgabensammlungen hochgeladen.*  
 
 ---
 
