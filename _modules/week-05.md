@@ -10,7 +10,7 @@ title: "Woche 5 - Binäre Suchbäume"
 : **Übung**{: .label .label-blue } Binäre Suchbäume
   : Raum 3.216, 13:00-14:00
 
-  : **Materialien:**  
-    - [📄 Algorithmik BSTs AVL](/ba_algo_th_public/assets/slides/05_Algorithmik_BSTs_AVL.pdf) <span style="font-size: 1px; color: white; background-color: white;">binärer suchbaum, avl-baum, hashtabelle, tries, algorithmen</span>  
+  : **Materialien:**
+    - [📄 Algorithmik BSTs AVL](/ba_algo_th_public/assets/slides/05_Algorithmik_BSTs_AVL.pdf) <span style="font-size: 1px; color: white; background-color: white;">binäre suchbäume, avl-baum, hashtabelle, tries, algorithmen</span>  
     - [📄 Algorithmik BSTs AVL animated](/ba_algo_th_public/assets/slides/05_Algorithmik_BSTs_AVL_animated.pdf)  
-    - [📄 Algorithmik Übungsblatt5](/ba_algo_th_public/assets/slides/05_Algorithmik_Übungsblatt5.pdf) <span style="font-size: 1px; color: white; background-color: white;">algorithmen, binäre suchbäume, avl-bäume, datenstrukturen, trie</span>  
+    - [📄 Algorithmik Übungsblatt5](/ba_algo_th_public/assets/slides/05_Algorithmik_Übungsblatt5.pdf) <span style="font-size: 1px; color: white; background-color: white;">binäre suchbäume, avl-bäume, algorithmik, datenstrukturen, trie</span>  
