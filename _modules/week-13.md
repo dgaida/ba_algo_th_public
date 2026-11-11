@@ -13,6 +13,6 @@ title: "Woche 13 - Dynamische Programmierung I"
   : **Materialien:**
     - [📄 Algorithmik DynProg](/ba_algo_th_public/assets/slides/13_Algorithmik_DynProg.pdf) <span style="font-size: 1px; color: white; background-color: white;">algorithmik, dynamische programmierung, memoization, rucksackproblem, pfadgraphen</span>  
     - [📄 Algorithmik DynProg animated](/ba_algo_th_public/assets/slides/13_Algorithmik_DynProg_animated.pdf)  
-    - [📄 Algorithmik Übungsblatt10](/ba_algo_th_public/assets/slides/13_Algorithmik_Übungsblatt10.pdf) <span style="font-size: 1px; color: white; background-color: white;">dynamische programmierung, rekursion, memoization, algorithmik, brute-force</span>  
+    - [📄 Algorithmik Übungsblatt10](/ba_algo_th_public/assets/slides/13_Algorithmik_Übungsblatt10.pdf) <span style="font-size: 1px; color: white; background-color: white;">dynamische programmierung, rekursion, memoization, bottom-up, algorithmik</span>  
   : **Code:**
     - [📁 week 13](https://github.com/dgaida/ba_algo_th_public/tree/main/assets/exercises/week_13)  
